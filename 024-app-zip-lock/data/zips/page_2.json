@@ -1,0 +1,131 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 60,
+    "total_pages": 3,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "zip_021",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_022",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_023",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_024",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_025",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_026",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_027",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_028",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_029",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_030",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_031",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_032",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_033",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_034",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_035",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_036",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_037",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_038",
+      "thumb": "thumb_2.webp",
+      "preview_url": "preview_2.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_039",
+      "thumb": "thumb_3.webp",
+      "preview_url": "preview_3.webp",
+      "is_lock": false
+    },
+    {
+      "id": "zip_040",
+      "thumb": "thumb_1.webp",
+      "preview_url": "preview_1.webp",
+      "is_lock": false
+    }
+  ]
+}

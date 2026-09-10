@@ -1,0 +1,24 @@
+{
+    "categories":  [
+                       {
+                           "id":  "popular",
+                           "name":  "Popular"
+                       },
+                       {
+                           "id":  "anime",
+                           "name":  "Anime"
+                       },
+                       {
+                           "id":  "cute",
+                           "name":  "Cute"
+                       },
+                       {
+                           "id":  "sky",
+                           "name":  "Sky"
+                       },
+                       {
+                           "id":  "nature",
+                           "name":  "Nature"
+                       }
+                   ]
+}
