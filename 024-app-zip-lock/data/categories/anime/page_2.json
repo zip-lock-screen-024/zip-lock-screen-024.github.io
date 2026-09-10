@@ -1,0 +1,211 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 100,
+    "total_pages": 5,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "anime_021",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_022",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_023",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_024",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_025",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_026",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_027",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_028",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_029",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_030",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_031",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_032",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_033",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_034",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_035",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_036",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_037",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_038",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_039",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    },
+    {
+      "id": "anime_040",
+      "category_id": "anime",
+      "preview": "preview_1.webp",
+      "background": "background_1.webp",
+      "foreground": "foreground_1.webp",
+      "row_id": "row_001",
+      "zip_id": "zip_001",
+      "is_lock": false
+    }
+  ]
+}
