@@ -1,0 +1,131 @@
+{
+  "pagination": {
+    "page": 11,
+    "page_size": 20,
+    "total_items": 314,
+    "total_pages": 16,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "zipper_01",
+      "thumb": "zipper_01_thumb.png",
+      "preview_url": "zipper_01.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_02",
+      "thumb": "zipper_02_thumb.png",
+      "preview_url": "zipper_02.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_03",
+      "thumb": "zipper_03_thumb.png",
+      "preview_url": "zipper_03.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_04",
+      "thumb": "zipper_04_thumb.png",
+      "preview_url": "zipper_04.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_05",
+      "thumb": "zipper_05_thumb.png",
+      "preview_url": "zipper_05.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_06",
+      "thumb": "zipper_06_thumb.png",
+      "preview_url": "zipper_06.png",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_001",
+      "thumb": "dl_zip_001_thumb.webp",
+      "preview_url": "dl_zip_001_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_002",
+      "thumb": "dl_zip_002_thumb.webp",
+      "preview_url": "dl_zip_002_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_003",
+      "thumb": "dl_zip_003_thumb.webp",
+      "preview_url": "dl_zip_003_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_004",
+      "thumb": "dl_zip_004_thumb.webp",
+      "preview_url": "dl_zip_004_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_005",
+      "thumb": "dl_zip_005_thumb.webp",
+      "preview_url": "dl_zip_005_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_006",
+      "thumb": "dl_zip_006_thumb.webp",
+      "preview_url": "dl_zip_006_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_007",
+      "thumb": "dl_zip_007_thumb.webp",
+      "preview_url": "dl_zip_007_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_008",
+      "thumb": "dl_zip_008_thumb.webp",
+      "preview_url": "dl_zip_008_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_009",
+      "thumb": "dl_zip_009_thumb.webp",
+      "preview_url": "dl_zip_009_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_010",
+      "thumb": "dl_zip_010_thumb.webp",
+      "preview_url": "dl_zip_010_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_011",
+      "thumb": "dl_zip_011_thumb.webp",
+      "preview_url": "dl_zip_011_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_012",
+      "thumb": "dl_zip_012_thumb.webp",
+      "preview_url": "dl_zip_012_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_013",
+      "thumb": "dl_zip_013_thumb.webp",
+      "preview_url": "dl_zip_013_preview.webp",
+      "is_lock": false
+    },
+    {
+      "id": "dl_zip_014",
+      "thumb": "dl_zip_014_thumb.webp",
+      "preview_url": "dl_zip_014_preview.webp",
+      "is_lock": false
+    }
+  ]
+}

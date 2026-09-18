@@ -1,0 +1,211 @@
+{
+  "pagination": {
+    "page": 1,
+    "page_size": 20,
+    "total_items": 42,
+    "total_pages": 3,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "trending_01",
+      "category_id": "trending",
+      "preview": "trending_01_preview.jpg",
+      "background": "trending_42_bg_nature_03.jpg",
+      "foreground": "trending_01_bg_digital_art_02.jpg",
+      "row_id": "color_13",
+      "zip_id": "zipper_19",
+      "is_lock": false
+    },
+    {
+      "id": "trending_02",
+      "category_id": "trending",
+      "preview": "trending_02_preview.jpg",
+      "background": "trending_41_bg_love_06.jpg",
+      "foreground": "trending_02_bg_digital_art_03.jpg",
+      "row_id": "weapons_03",
+      "zip_id": "zipper_14",
+      "is_lock": false
+    },
+    {
+      "id": "trending_03",
+      "category_id": "trending",
+      "preview": "trending_03_preview.jpg",
+      "background": "trending_40_bg_cyberpunk_20.png",
+      "foreground": "trending_03_bg_digital_art_41.png",
+      "row_id": "gemstone_09",
+      "zip_id": "zipper_23",
+      "is_lock": false
+    },
+    {
+      "id": "trending_05",
+      "category_id": "trending",
+      "preview": "trending_05_preview.jpg",
+      "background": "trending_39_bg_golden_25.png",
+      "foreground": "trending_05_bg_anime_03.png",
+      "row_id": "golden_09",
+      "zip_id": "zipper_08",
+      "is_lock": false
+    },
+    {
+      "id": "trending_04",
+      "category_id": "trending",
+      "preview": "trending_04_preview.jpg",
+      "background": "trending_38_bg_golden_07.png",
+      "foreground": "trending_04_bg_animail_19.jpg",
+      "row_id": "color_06",
+      "zip_id": "zipper_02",
+      "is_lock": false
+    },
+    {
+      "id": "trending_06",
+      "category_id": "trending",
+      "preview": "trending_06_preview.jpg",
+      "background": "trending_37_bg_fantasy_03.jpg",
+      "foreground": "trending_06_bg_anime_12.png",
+      "row_id": "weapons_06",
+      "zip_id": "anime_zipper_06",
+      "is_lock": false
+    },
+    {
+      "id": "trending_07",
+      "category_id": "trending",
+      "preview": "trending_07_preview.jpg",
+      "background": "trending_36_bg_anime_56.png",
+      "foreground": "trending_07_bg_anime_08.png",
+      "row_id": "golden_06",
+      "zip_id": "anime_zipper_03",
+      "is_lock": false
+    },
+    {
+      "id": "trending_08",
+      "category_id": "trending",
+      "preview": "trending_08_preview.jpg",
+      "background": "trending_35_bg_car_11.png",
+      "foreground": "trending_08_bg_anime_29.png",
+      "row_id": "color_19",
+      "zip_id": "zipper_06",
+      "is_lock": false
+    },
+    {
+      "id": "trending_09",
+      "category_id": "trending",
+      "preview": "trending_09_preview.jpg",
+      "background": "trending_34_bg_super_hero_41.png",
+      "foreground": "trending_09_bg_car_32.png",
+      "row_id": "collection_07",
+      "zip_id": "zipper_08",
+      "is_lock": false
+    },
+    {
+      "id": "trending_10",
+      "category_id": "trending",
+      "preview": "trending_10_preview.jpg",
+      "background": "trending_33_bg_digital_art_36.png",
+      "foreground": "trending_10_bg_digital_art_07.jpg",
+      "row_id": "gemstone_09",
+      "zip_id": "zipper_23",
+      "is_lock": false
+    },
+    {
+      "id": "trending_11",
+      "category_id": "trending",
+      "preview": "trending_11_preview.jpg",
+      "background": "trending_32_bg_devil_13.png",
+      "foreground": "trending_11_bg_anime_47.png",
+      "row_id": "gemstone_02",
+      "zip_id": "zipper_12",
+      "is_lock": false
+    },
+    {
+      "id": "trending_12",
+      "category_id": "trending",
+      "preview": "trending_12_preview.jpg",
+      "background": "trending_31_bg_digital_art_21.jpg",
+      "foreground": "trending_12_bg_super_hero_01.png",
+      "row_id": "golden_18",
+      "zip_id": "zipper_13",
+      "is_lock": false
+    },
+    {
+      "id": "trending_13",
+      "category_id": "trending",
+      "preview": "trending_13_preview.jpg",
+      "background": "trending_30_bg_flower_14.jpg",
+      "foreground": "trending_13_bg_devil_14.png",
+      "row_id": "gemstone_08",
+      "zip_id": "zipper_25",
+      "is_lock": false
+    },
+    {
+      "id": "trending_14",
+      "category_id": "trending",
+      "preview": "trending_14_preview.jpg",
+      "background": "trending_29_bg_digital_art_14.jpg",
+      "foreground": "trending_14_bg_cyberpunk_12.png",
+      "row_id": "color_24",
+      "zip_id": "zipper_40",
+      "is_lock": false
+    },
+    {
+      "id": "trending_15",
+      "category_id": "trending",
+      "preview": "trending_15_preview.jpg",
+      "background": "trending_28_bg_anime_25.png",
+      "foreground": "trending_15_bg_football_01.png",
+      "row_id": "color_26",
+      "zip_id": "zipper_09",
+      "is_lock": false
+    },
+    {
+      "id": "trending_16",
+      "category_id": "trending",
+      "preview": "trending_16_preview.jpg",
+      "background": "trending_27_bg_devil_19.png",
+      "foreground": "trending_16_bg_cyberpunk_21.png",
+      "row_id": "collection_09",
+      "zip_id": "aesthetic_zipper_03",
+      "is_lock": false
+    },
+    {
+      "id": "trending_17",
+      "category_id": "trending",
+      "preview": "trending_17_preview.jpg",
+      "background": "trending_26_bg_car_03.png",
+      "foreground": "trending_17_bg_car_29.png",
+      "row_id": "golden_13",
+      "zip_id": "car_zipper_07",
+      "is_lock": false
+    },
+    {
+      "id": "trending_18",
+      "category_id": "trending",
+      "preview": "trending_18_preview.jpg",
+      "background": "trending_25_bg_anime_01.png",
+      "foreground": "trending_18_bg_super_hero_05.png",
+      "row_id": "color_07",
+      "zip_id": "zipper_35",
+      "is_lock": false
+    },
+    {
+      "id": "trending_19",
+      "category_id": "trending",
+      "preview": "trending_19_preview.jpg",
+      "background": "trending_24_bg_digital_art_23.jpg",
+      "foreground": "trending_19_bg_super_hero_19.png",
+      "row_id": "gemstone_06",
+      "zip_id": "zipper_35",
+      "is_lock": false
+    },
+    {
+      "id": "trending_20",
+      "category_id": "trending",
+      "preview": "trending_20_preview.jpg",
+      "background": "trending_22_bg_cyberpunk_02.png",
+      "foreground": "trending_20_bg_super_hero_24.png",
+      "row_id": "golden_02",
+      "zip_id": "zipper_11",
+      "is_lock": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 24,
+    "total_pages": 2,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "car_21",
+      "category_id": "car",
+      "preview": "car_21_preview.jpg",
+      "background": "car_04_bg_car_20.png",
+      "foreground": "car_21_bg_car_22.png",
+      "row_id": "gemstone_05",
+      "zip_id": "zipper_22",
+      "is_lock": false
+    },
+    {
+      "id": "car_22",
+      "category_id": "car",
+      "preview": "car_22_preview.jpg",
+      "background": "car_03_bg_car_13.png",
+      "foreground": "car_22_bg_car_07.png",
+      "row_id": "weapons_07",
+      "zip_id": "car_zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "car_23",
+      "category_id": "car",
+      "preview": "car_23_preview.jpg",
+      "background": "car_02_bg_car_03.png",
+      "foreground": "car_23_bg_car_01.png",
+      "row_id": "golden_02",
+      "zip_id": "car_zipper_09",
+      "is_lock": false
+    },
+    {
+      "id": "car_24",
+      "category_id": "car",
+      "preview": "car_24_preview.jpg",
+      "background": "car_01_bg_car_11.png",
+      "foreground": "car_24_bg_car_02.png",
+      "row_id": "collection_05",
+      "zip_id": "car_zipper_15",
+      "is_lock": false
+    }
+  ]
+}

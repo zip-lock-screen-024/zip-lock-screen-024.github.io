@@ -1,0 +1,101 @@
+{
+  "pagination": {
+    "page": 4,
+    "page_size": 20,
+    "total_items": 69,
+    "total_pages": 4,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "dl_brainrot_061",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_061_preview.webp",
+      "background": "dl_brainrot_061_background.webp",
+      "foreground": "dl_brainrot_061_foreground.webp",
+      "row_id": "dl_row_006",
+      "zip_id": "dl_zip_031",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_062",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_062_preview.webp",
+      "background": "dl_brainrot_062_background.webp",
+      "foreground": "dl_brainrot_062_foreground.webp",
+      "row_id": "dl_row_005",
+      "zip_id": "dl_zip_015",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_063",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_063_preview.webp",
+      "background": "dl_brainrot_063_background.webp",
+      "foreground": "dl_brainrot_063_foreground.webp",
+      "row_id": "dl_row_014",
+      "zip_id": "dl_zip_065",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_064",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_064_preview.webp",
+      "background": "dl_brainrot_064_background.webp",
+      "foreground": "dl_brainrot_064_foreground.webp",
+      "row_id": "dl_row_005",
+      "zip_id": "dl_zip_071",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_065",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_065_preview.webp",
+      "background": "dl_brainrot_065_background.webp",
+      "foreground": "dl_brainrot_065_foreground.webp",
+      "row_id": "dl_row_005",
+      "zip_id": "dl_zip_006",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_066",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_066_preview.webp",
+      "background": "dl_brainrot_066_background.webp",
+      "foreground": "dl_brainrot_066_foreground.webp",
+      "row_id": "dl_row_001",
+      "zip_id": "dl_zip_083",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_067",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_067_preview.webp",
+      "background": "dl_brainrot_067_background.webp",
+      "foreground": "dl_brainrot_067_foreground.webp",
+      "row_id": "dl_row_013",
+      "zip_id": "dl_zip_002",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_068",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_068_preview.webp",
+      "background": "dl_brainrot_068_background.webp",
+      "foreground": "dl_brainrot_068_foreground.webp",
+      "row_id": "dl_row_005",
+      "zip_id": "dl_zip_060",
+      "is_lock": false
+    },
+    {
+      "id": "dl_brainrot_069",
+      "category_id": "brainrot",
+      "preview": "dl_brainrot_069_preview.webp",
+      "background": "dl_brainrot_069_background.webp",
+      "foreground": "dl_brainrot_069_foreground.webp",
+      "row_id": "dl_row_004",
+      "zip_id": "dl_zip_106",
+      "is_lock": false
+    }
+  ]
+}

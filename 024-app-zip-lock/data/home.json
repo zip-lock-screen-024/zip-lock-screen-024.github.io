@@ -1,24 +1,68 @@
 {
-    "categories":  [
-                       {
-                           "id":  "popular",
-                           "name":  "Popular"
-                       },
-                       {
-                           "id":  "anime",
-                           "name":  "Anime"
-                       },
-                       {
-                           "id":  "cute",
-                           "name":  "Cute"
-                       },
-                       {
-                           "id":  "sky",
-                           "name":  "Sky"
-                       },
-                       {
-                           "id":  "nature",
-                           "name":  "Nature"
-                       }
-                   ]
+  "categories": [
+    {
+      "id": "aesthetic",
+      "name": "Aesthetic"
+    },
+    {
+      "id": "anime",
+      "name": "Anime"
+    },
+    {
+      "id": "car",
+      "name": "Car"
+    },
+    {
+      "id": "digitalart",
+      "name": "Digital Art"
+    },
+    {
+      "id": "football",
+      "name": "Football"
+    },
+    {
+      "id": "golden",
+      "name": "Golden"
+    },
+    {
+      "id": "mostused",
+      "name": "Most Used"
+    },
+    {
+      "id": "trending",
+      "name": "Trending"
+    },
+    {
+      "id": "yourphoto",
+      "name": "Your Photo"
+    },
+    {
+      "id": "brainrot",
+      "name": "Brainrot"
+    },
+    {
+      "id": "cartoon",
+      "name": "Cartoon"
+    },
+    {
+      "id": "cute",
+      "name": "Cute"
+    },
+    {
+      "id": "festival",
+      "name": "Festival"
+    },
+    {
+      "id": "idol",
+      "name": "Idol"
+    },
+    {
+      "id": "sport",
+      "name": "Sport"
+    },
+    {
+      "id": "super_hero",
+      "name": "Super Hero"
+    }
+  ]
 }

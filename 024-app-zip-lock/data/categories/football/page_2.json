@@ -1,0 +1,51 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 24,
+    "total_pages": 2,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "football_21",
+      "category_id": "football",
+      "preview": "football_21_preview.jpg",
+      "background": "football_05_bg_football_16.png",
+      "foreground": "football_21_bg_football_03.png",
+      "row_id": "golden_18",
+      "zip_id": "zipper_14",
+      "is_lock": false
+    },
+    {
+      "id": "football_22",
+      "category_id": "football",
+      "preview": "football_22_preview.jpg",
+      "background": "football_03_bg_football_03.png",
+      "foreground": "football_22_bg_football_16.png",
+      "row_id": "gemstone_06",
+      "zip_id": "zipper_26",
+      "is_lock": false
+    },
+    {
+      "id": "football_23",
+      "category_id": "football",
+      "preview": "football_23_preview.jpg",
+      "background": "football_02_bg_football_01.png",
+      "foreground": "football_23_bg_football_13.png",
+      "row_id": "gemstone_07",
+      "zip_id": "zipper_22",
+      "is_lock": false
+    },
+    {
+      "id": "football_24",
+      "category_id": "football",
+      "preview": "football_24_preview.jpg",
+      "background": "football_01_bg_football_04.png",
+      "foreground": "football_24_bg_football_07.png",
+      "row_id": "golden_11",
+      "zip_id": "zipper_20",
+      "is_lock": false
+    }
+  ]
+}

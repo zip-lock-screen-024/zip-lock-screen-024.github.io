@@ -1,0 +1,151 @@
+{
+  "pagination": {
+    "page": 3,
+    "page_size": 20,
+    "total_items": 113,
+    "total_pages": 6,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "color_19",
+      "thumb": "color_19.png",
+      "preview_url": "color_19.png",
+      "item_row": "color_19.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_20",
+      "thumb": "color_20.png",
+      "preview_url": "color_20.png",
+      "item_row": "color_20.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_21",
+      "thumb": "color_21.png",
+      "preview_url": "color_21.png",
+      "item_row": "color_21.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_22",
+      "thumb": "color_22.png",
+      "preview_url": "color_22.png",
+      "item_row": "color_22.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_23",
+      "thumb": "color_23.png",
+      "preview_url": "color_23.png",
+      "item_row": "color_23.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_24",
+      "thumb": "color_24.png",
+      "preview_url": "color_24.png",
+      "item_row": "color_24.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_25",
+      "thumb": "color_25.png",
+      "preview_url": "color_25.png",
+      "item_row": "color_25.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_26",
+      "thumb": "color_26.png",
+      "preview_url": "color_26.png",
+      "item_row": "color_26.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_27",
+      "thumb": "color_27.png",
+      "preview_url": "color_27.png",
+      "item_row": "color_27.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_28",
+      "thumb": "color_28.png",
+      "preview_url": "color_28.png",
+      "item_row": "color_28.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_29",
+      "thumb": "color_29.png",
+      "preview_url": "color_29.png",
+      "item_row": "color_29.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_30",
+      "thumb": "color_30.png",
+      "preview_url": "color_30.png",
+      "item_row": "color_30.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_31",
+      "thumb": "color_31.png",
+      "preview_url": "color_31.png",
+      "item_row": "color_31.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_32",
+      "thumb": "color_32.png",
+      "preview_url": "color_32.png",
+      "item_row": "color_32.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_33",
+      "thumb": "color_33.png",
+      "preview_url": "color_33.png",
+      "item_row": "color_33.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_34",
+      "thumb": "color_34.png",
+      "preview_url": "color_34.png",
+      "item_row": "color_34.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_35",
+      "thumb": "color_35.png",
+      "preview_url": "color_35.png",
+      "item_row": "color_35.png",
+      "is_lock": false
+    },
+    {
+      "id": "color_36",
+      "thumb": "color_36.png",
+      "preview_url": "color_36.png",
+      "item_row": "color_36.png",
+      "is_lock": false
+    },
+    {
+      "id": "gemstone_01",
+      "thumb": "gemstone_01.png",
+      "preview_url": "gemstone_01.png",
+      "item_row": "gemstone_01.png",
+      "is_lock": false
+    },
+    {
+      "id": "gemstone_02",
+      "thumb": "gemstone_02.png",
+      "preview_url": "gemstone_02.png",
+      "item_row": "gemstone_02.png",
+      "is_lock": false
+    }
+  ]
+}

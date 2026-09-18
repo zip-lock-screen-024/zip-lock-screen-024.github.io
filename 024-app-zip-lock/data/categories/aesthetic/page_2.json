@@ -1,0 +1,51 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 24,
+    "total_pages": 2,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "aesthetic_21",
+      "category_id": "aesthetic",
+      "preview": "aesthetic_21_preview.jpg",
+      "background": "aesthetic_04_bg_cute_15.jpg",
+      "foreground": "aesthetic_21_bg_weather_08.jpg",
+      "row_id": "color_18",
+      "zip_id": "aesthetic_zipper_16",
+      "is_lock": false
+    },
+    {
+      "id": "aesthetic_22",
+      "category_id": "aesthetic",
+      "preview": "aesthetic_22_preview.jpg",
+      "background": "aesthetic_03_bg_digital_art_14.jpg",
+      "foreground": "aesthetic_22_bg_flower_14.jpg",
+      "row_id": "golden_18",
+      "zip_id": "aesthetic_zipper_18",
+      "is_lock": false
+    },
+    {
+      "id": "aesthetic_23",
+      "category_id": "aesthetic",
+      "preview": "aesthetic_23_preview.jpg",
+      "background": "aesthetic_02_bg_flower_09.jpg",
+      "foreground": "aesthetic_23_bg_nature_01.jpg",
+      "row_id": "color_24",
+      "zip_id": "aesthetic_zipper_06",
+      "is_lock": false
+    },
+    {
+      "id": "aesthetic_24",
+      "category_id": "aesthetic",
+      "preview": "aesthetic_24_preview.jpg",
+      "background": "aesthetic_01_bg_nature_06.jpg",
+      "foreground": "aesthetic_24_bg_flower_12.jpg",
+      "row_id": "color_09",
+      "zip_id": "aesthetic_zipper_20",
+      "is_lock": false
+    }
+  ]
+}

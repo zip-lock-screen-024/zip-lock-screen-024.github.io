@@ -1,0 +1,211 @@
+{
+  "pagination": {
+    "page": 1,
+    "page_size": 20,
+    "total_items": 26,
+    "total_pages": 2,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "golden_01",
+      "category_id": "golden",
+      "preview": "golden_01_preview.jpg",
+      "background": "golden_26_bg_golden_26.png",
+      "foreground": "golden_01_bg_golden_01.png",
+      "row_id": "golden_03",
+      "zip_id": "zipper_19",
+      "is_lock": false
+    },
+    {
+      "id": "golden_02",
+      "category_id": "golden",
+      "preview": "golden_02_preview.jpg",
+      "background": "golden_25_bg_golden_25.png",
+      "foreground": "golden_02_bg_golden_02.png",
+      "row_id": "golden_10",
+      "zip_id": "aesthetic_zipper_15",
+      "is_lock": false
+    },
+    {
+      "id": "golden_03",
+      "category_id": "golden",
+      "preview": "golden_03_preview.jpg",
+      "background": "golden_24_bg_golden_24.png",
+      "foreground": "golden_03_bg_golden_03.png",
+      "row_id": "golden_12",
+      "zip_id": "aesthetic_zipper_18",
+      "is_lock": false
+    },
+    {
+      "id": "golden_04",
+      "category_id": "golden",
+      "preview": "golden_04_preview.jpg",
+      "background": "golden_23_bg_golden_23.png",
+      "foreground": "golden_04_bg_golden_04.png",
+      "row_id": "golden_17",
+      "zip_id": "aesthetic_zipper_17",
+      "is_lock": false
+    },
+    {
+      "id": "golden_05",
+      "category_id": "golden",
+      "preview": "golden_05_preview.jpg",
+      "background": "golden_22_bg_golden_22.png",
+      "foreground": "golden_05_bg_golden_05.png",
+      "row_id": "golden_16",
+      "zip_id": "zipper_31",
+      "is_lock": false
+    },
+    {
+      "id": "golden_06",
+      "category_id": "golden",
+      "preview": "golden_06_preview.jpg",
+      "background": "golden_21_bg_golden_21.png",
+      "foreground": "golden_06_bg_golden_06.png",
+      "row_id": "golden_20",
+      "zip_id": "zipper_50",
+      "is_lock": false
+    },
+    {
+      "id": "golden_07",
+      "category_id": "golden",
+      "preview": "golden_07_preview.jpg",
+      "background": "golden_20_bg_golden_20.png",
+      "foreground": "golden_07_bg_golden_07.png",
+      "row_id": "golden_14",
+      "zip_id": "zipper_49",
+      "is_lock": false
+    },
+    {
+      "id": "golden_08",
+      "category_id": "golden",
+      "preview": "golden_08_preview.jpg",
+      "background": "golden_19_bg_golden_19.png",
+      "foreground": "golden_08_bg_golden_08.png",
+      "row_id": "golden_14",
+      "zip_id": "zipper_15",
+      "is_lock": false
+    },
+    {
+      "id": "golden_09",
+      "category_id": "golden",
+      "preview": "golden_09_preview.jpg",
+      "background": "golden_18_bg_golden_18.png",
+      "foreground": "golden_09_bg_golden_09.png",
+      "row_id": "golden_02",
+      "zip_id": "aesthetic_zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "golden_10",
+      "category_id": "golden",
+      "preview": "golden_10_preview.jpg",
+      "background": "golden_17_bg_golden_17.png",
+      "foreground": "golden_10_bg_golden_10.png",
+      "row_id": "golden_12",
+      "zip_id": "aesthetic_zipper_09",
+      "is_lock": false
+    },
+    {
+      "id": "golden_11",
+      "category_id": "golden",
+      "preview": "golden_11_preview.jpg",
+      "background": "golden_16_bg_golden_16.png",
+      "foreground": "golden_11_bg_golden_11.png",
+      "row_id": "golden_18",
+      "zip_id": "aesthetic_zipper_20",
+      "is_lock": false
+    },
+    {
+      "id": "golden_12",
+      "category_id": "golden",
+      "preview": "golden_12_preview.jpg",
+      "background": "golden_14_bg_golden_14.png",
+      "foreground": "golden_12_bg_golden_12.png",
+      "row_id": "golden_09",
+      "zip_id": "aesthetic_zipper_17",
+      "is_lock": false
+    },
+    {
+      "id": "golden_13",
+      "category_id": "golden",
+      "preview": "golden_13_preview.jpg",
+      "background": "golden_15_bg_golden_15.png",
+      "foreground": "golden_13_bg_golden_13.png",
+      "row_id": "golden_12",
+      "zip_id": "zipper_31",
+      "is_lock": false
+    },
+    {
+      "id": "golden_14",
+      "category_id": "golden",
+      "preview": "golden_14_preview.jpg",
+      "background": "golden_13_bg_golden_13.png",
+      "foreground": "golden_14_bg_golden_14.png",
+      "row_id": "golden_08",
+      "zip_id": "zipper_48",
+      "is_lock": false
+    },
+    {
+      "id": "golden_15",
+      "category_id": "golden",
+      "preview": "golden_15_preview.jpg",
+      "background": "golden_12_bg_golden_12.png",
+      "foreground": "golden_15_bg_golden_15.png",
+      "row_id": "golden_02",
+      "zip_id": "aesthetic_zipper_18",
+      "is_lock": false
+    },
+    {
+      "id": "golden_16",
+      "category_id": "golden",
+      "preview": "golden_16_preview.jpg",
+      "background": "golden_11_bg_golden_11.png",
+      "foreground": "golden_16_bg_golden_16.png",
+      "row_id": "golden_15",
+      "zip_id": "zipper_49",
+      "is_lock": false
+    },
+    {
+      "id": "golden_17",
+      "category_id": "golden",
+      "preview": "golden_17_preview.jpg",
+      "background": "golden_10_bg_golden_10.png",
+      "foreground": "golden_17_bg_golden_17.png",
+      "row_id": "golden_18",
+      "zip_id": "aesthetic_zipper_08",
+      "is_lock": false
+    },
+    {
+      "id": "golden_18",
+      "category_id": "golden",
+      "preview": "golden_18_preview.jpg",
+      "background": "golden_09_bg_golden_09.png",
+      "foreground": "golden_18_bg_golden_18.png",
+      "row_id": "golden_03",
+      "zip_id": "aesthetic_zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "golden_19",
+      "category_id": "golden",
+      "preview": "golden_19_preview.jpg",
+      "background": "golden_08_bg_golden_08.png",
+      "foreground": "golden_19_bg_golden_19.png",
+      "row_id": "golden_08",
+      "zip_id": "zipper_19",
+      "is_lock": false
+    },
+    {
+      "id": "golden_20",
+      "category_id": "golden",
+      "preview": "golden_20_preview.jpg",
+      "background": "golden_07_bg_golden_07.png",
+      "foreground": "golden_20_bg_golden_20.png",
+      "row_id": "golden_13",
+      "zip_id": "aesthetic_zipper_20",
+      "is_lock": false
+    }
+  ]
+}

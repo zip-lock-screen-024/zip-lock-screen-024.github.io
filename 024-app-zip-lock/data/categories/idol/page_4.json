@@ -1,0 +1,211 @@
+{
+  "pagination": {
+    "page": 4,
+    "page_size": 20,
+    "total_items": 101,
+    "total_pages": 6,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "dl_idol_061",
+      "category_id": "idol",
+      "preview": "dl_idol_061_preview.webp",
+      "background": "dl_idol_061_background.webp",
+      "foreground": "dl_idol_061_foreground.webp",
+      "row_id": "dl_row_007",
+      "zip_id": "dl_zip_098",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_062",
+      "category_id": "idol",
+      "preview": "dl_idol_062_preview.webp",
+      "background": "dl_idol_062_background.webp",
+      "foreground": "dl_idol_062_foreground.webp",
+      "row_id": "dl_row_009",
+      "zip_id": "dl_zip_099",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_063",
+      "category_id": "idol",
+      "preview": "dl_idol_063_preview.webp",
+      "background": "dl_idol_063_background.webp",
+      "foreground": "dl_idol_063_foreground.webp",
+      "row_id": "dl_row_010",
+      "zip_id": "dl_zip_100",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_064",
+      "category_id": "idol",
+      "preview": "dl_idol_064_preview.webp",
+      "background": "dl_idol_064_background.webp",
+      "foreground": "dl_idol_064_foreground.webp",
+      "row_id": "dl_row_011",
+      "zip_id": "dl_zip_101",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_065",
+      "category_id": "idol",
+      "preview": "dl_idol_065_preview.webp",
+      "background": "dl_idol_065_background.webp",
+      "foreground": "dl_idol_065_foreground.webp",
+      "row_id": "dl_row_012",
+      "zip_id": "dl_zip_102",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_066",
+      "category_id": "idol",
+      "preview": "dl_idol_066_preview.webp",
+      "background": "dl_idol_066_background.webp",
+      "foreground": "dl_idol_066_foreground.webp",
+      "row_id": "dl_row_013",
+      "zip_id": "dl_zip_103",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_067",
+      "category_id": "idol",
+      "preview": "dl_idol_067_preview.webp",
+      "background": "dl_idol_067_background.webp",
+      "foreground": "dl_idol_067_foreground.webp",
+      "row_id": "dl_row_014",
+      "zip_id": "dl_zip_104",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_068",
+      "category_id": "idol",
+      "preview": "dl_idol_068_preview.webp",
+      "background": "dl_idol_068_background.webp",
+      "foreground": "dl_idol_068_foreground.webp",
+      "row_id": "dl_row_015",
+      "zip_id": "dl_zip_062",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_069",
+      "category_id": "idol",
+      "preview": "dl_idol_069_preview.webp",
+      "background": "dl_idol_069_background.webp",
+      "foreground": "dl_idol_069_foreground.webp",
+      "row_id": "dl_row_016",
+      "zip_id": "dl_zip_106",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_070",
+      "category_id": "idol",
+      "preview": "dl_idol_070_preview.webp",
+      "background": "dl_idol_070_background.webp",
+      "foreground": "dl_idol_070_foreground.webp",
+      "row_id": "dl_row_002",
+      "zip_id": "dl_zip_107",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_071",
+      "category_id": "idol",
+      "preview": "dl_idol_071_preview.webp",
+      "background": "dl_idol_071_background.webp",
+      "foreground": "dl_idol_071_foreground.webp",
+      "row_id": "dl_row_010",
+      "zip_id": "dl_zip_108",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_072",
+      "category_id": "idol",
+      "preview": "dl_idol_072_preview.webp",
+      "background": "dl_idol_072_background.webp",
+      "foreground": "dl_idol_072_foreground.webp",
+      "row_id": "dl_row_005",
+      "zip_id": "dl_zip_083",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_073",
+      "category_id": "idol",
+      "preview": "dl_idol_073_preview.webp",
+      "background": "dl_idol_073_background.webp",
+      "foreground": "dl_idol_073_foreground.webp",
+      "row_id": "dl_row_006",
+      "zip_id": "dl_zip_084",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_074",
+      "category_id": "idol",
+      "preview": "dl_idol_074_preview.webp",
+      "background": "dl_idol_074_background.webp",
+      "foreground": "dl_idol_074_foreground.webp",
+      "row_id": "dl_row_007",
+      "zip_id": "dl_zip_085",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_075",
+      "category_id": "idol",
+      "preview": "dl_idol_075_preview.webp",
+      "background": "dl_idol_075_background.webp",
+      "foreground": "dl_idol_075_foreground.webp",
+      "row_id": "dl_row_011",
+      "zip_id": "dl_zip_086",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_076",
+      "category_id": "idol",
+      "preview": "dl_idol_076_preview.webp",
+      "background": "dl_idol_076_background.webp",
+      "foreground": "dl_idol_076_foreground.webp",
+      "row_id": "dl_row_009",
+      "zip_id": "dl_zip_087",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_077",
+      "category_id": "idol",
+      "preview": "dl_idol_077_preview.webp",
+      "background": "dl_idol_077_background.webp",
+      "foreground": "dl_idol_077_foreground.webp",
+      "row_id": "dl_row_001",
+      "zip_id": "dl_zip_088",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_078",
+      "category_id": "idol",
+      "preview": "dl_idol_078_preview.webp",
+      "background": "dl_idol_078_background.webp",
+      "foreground": "dl_idol_078_foreground.webp",
+      "row_id": "dl_row_001",
+      "zip_id": "dl_zip_089",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_079",
+      "category_id": "idol",
+      "preview": "dl_idol_079_preview.webp",
+      "background": "dl_idol_079_background.webp",
+      "foreground": "dl_idol_079_foreground.webp",
+      "row_id": "dl_row_012",
+      "zip_id": "dl_zip_090",
+      "is_lock": false
+    },
+    {
+      "id": "dl_idol_080",
+      "category_id": "idol",
+      "preview": "dl_idol_080_preview.webp",
+      "background": "dl_idol_080_background.webp",
+      "foreground": "dl_idol_080_foreground.webp",
+      "row_id": "dl_row_013",
+      "zip_id": "dl_zip_091",
+      "is_lock": false
+    }
+  ]
+}

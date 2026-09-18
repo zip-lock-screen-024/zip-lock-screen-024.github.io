@@ -1,0 +1,31 @@
+{
+  "pagination": {
+    "page": 3,
+    "page_size": 20,
+    "total_items": 42,
+    "total_pages": 3,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "trending_41",
+      "category_id": "trending",
+      "preview": "trending_41_preview.jpg",
+      "background": "trending_02_bg_digital_art_03.jpg",
+      "foreground": "trending_41_bg_love_06.jpg",
+      "row_id": "color_06",
+      "zip_id": "aesthetic_zipper_11",
+      "is_lock": false
+    },
+    {
+      "id": "trending_42",
+      "category_id": "trending",
+      "preview": "trending_42_preview.jpg",
+      "background": "trending_01_bg_digital_art_02.jpg",
+      "foreground": "trending_42_bg_nature_03.jpg",
+      "row_id": "color_02",
+      "zip_id": "aesthetic_zipper_09",
+      "is_lock": false
+    }
+  ]
+}

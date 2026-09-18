@@ -1,0 +1,71 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 26,
+    "total_pages": 2,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "digital_art_21",
+      "category_id": "digitalart",
+      "preview": "digital_art_21_preview.jpg",
+      "background": "digital_art_06_bg_digital_art_36.png",
+      "foreground": "digital_art_21_bg_digital_art_43.png",
+      "row_id": "golden_09",
+      "zip_id": "zipper_01",
+      "is_lock": false
+    },
+    {
+      "id": "digital_art_22",
+      "category_id": "digitalart",
+      "preview": "digital_art_22_preview.jpg",
+      "background": "digital_art_05_bg_digital_art_21.jpg",
+      "foreground": "digital_art_22_bg_flower_06.jpg",
+      "row_id": "color_14",
+      "zip_id": "zipper_19",
+      "is_lock": false
+    },
+    {
+      "id": "digital_art_23",
+      "category_id": "digitalart",
+      "preview": "digital_art_23_preview.jpg",
+      "background": "digital_art_04_bg_digital_art_23.jpg",
+      "foreground": "digital_art_23_bg_digital_art_04.jpg",
+      "row_id": "golden_11",
+      "zip_id": "aesthetic_zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "digital_art_24",
+      "category_id": "digitalart",
+      "preview": "digital_art_24_preview.jpg",
+      "background": "digital_art_03_bg_digital_art_07.jpg",
+      "foreground": "digital_art_24_bg_digital_art_32.png",
+      "row_id": "golden_08",
+      "zip_id": "zipper_15",
+      "is_lock": false
+    },
+    {
+      "id": "digital_art_25",
+      "category_id": "digitalart",
+      "preview": "digital_art_25_preview.jpg",
+      "background": "digital_art_02_bg_digital_art_03.jpg",
+      "foreground": "digital_art_25_bg_digital_art_25.jpg",
+      "row_id": "gemstone_04",
+      "zip_id": "aesthetic_zipper_07",
+      "is_lock": false
+    },
+    {
+      "id": "digital_art_26",
+      "category_id": "digitalart",
+      "preview": "digital_art_26_preview.jpg",
+      "background": "digital_art_01_bg_digital_art_02.jpg",
+      "foreground": "digital_art_26_bg_digital_art_09.jpg",
+      "row_id": "gemstone_05",
+      "zip_id": "aesthetic_zipper_20",
+      "is_lock": false
+    }
+  ]
+}

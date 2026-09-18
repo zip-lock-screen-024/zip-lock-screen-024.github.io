@@ -1,0 +1,71 @@
+{
+  "pagination": {
+    "page": 2,
+    "page_size": 20,
+    "total_items": 26,
+    "total_pages": 2,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "golden_21",
+      "category_id": "golden",
+      "preview": "golden_21_preview.jpg",
+      "background": "golden_06_bg_golden_06.png",
+      "foreground": "golden_21_bg_golden_21.png",
+      "row_id": "golden_19",
+      "zip_id": "aesthetic_zipper_18",
+      "is_lock": false
+    },
+    {
+      "id": "golden_22",
+      "category_id": "golden",
+      "preview": "golden_22_preview.jpg",
+      "background": "golden_05_bg_golden_05.png",
+      "foreground": "golden_22_bg_golden_22.png",
+      "row_id": "golden_02",
+      "zip_id": "aesthetic_zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "golden_23",
+      "category_id": "golden",
+      "preview": "golden_23_preview.jpg",
+      "background": "golden_04_bg_golden_04.png",
+      "foreground": "golden_23_bg_golden_23.png",
+      "row_id": "golden_09",
+      "zip_id": "aesthetic_zipper_09",
+      "is_lock": false
+    },
+    {
+      "id": "golden_24",
+      "category_id": "golden",
+      "preview": "golden_24_preview.jpg",
+      "background": "golden_03_bg_golden_03.png",
+      "foreground": "golden_24_bg_golden_24.png",
+      "row_id": "golden_11",
+      "zip_id": "zipper_48",
+      "is_lock": false
+    },
+    {
+      "id": "golden_25",
+      "category_id": "golden",
+      "preview": "golden_25_preview.jpg",
+      "background": "golden_02_bg_golden_02.png",
+      "foreground": "golden_25_bg_golden_25.png",
+      "row_id": "golden_07",
+      "zip_id": "aesthetic_zipper_13",
+      "is_lock": false
+    },
+    {
+      "id": "golden_26",
+      "category_id": "golden",
+      "preview": "golden_26_preview.jpg",
+      "background": "golden_01_bg_golden_01.png",
+      "foreground": "golden_26_bg_golden_26.png",
+      "row_id": "golden_08",
+      "zip_id": "aesthetic_zipper_17",
+      "is_lock": false
+    }
+  ]
+}

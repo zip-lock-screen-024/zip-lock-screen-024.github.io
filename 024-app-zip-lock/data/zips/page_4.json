@@ -1,0 +1,131 @@
+{
+  "pagination": {
+    "page": 4,
+    "page_size": 20,
+    "total_items": 314,
+    "total_pages": 16,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "zipper_47",
+      "thumb": "zipper_47_thumb.png",
+      "preview_url": "zipper_47.png",
+      "is_lock": true
+    },
+    {
+      "id": "zipper_48",
+      "thumb": "zipper_48_thumb.png",
+      "preview_url": "zipper_48.png",
+      "is_lock": true
+    },
+    {
+      "id": "zipper_49",
+      "thumb": "zipper_49_thumb.png",
+      "preview_url": "zipper_49.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_50",
+      "thumb": "zipper_50_thumb.png",
+      "preview_url": "zipper_50.png",
+      "is_lock": true
+    },
+    {
+      "id": "zipper_51",
+      "thumb": "zipper_51_thumb.png",
+      "preview_url": "zipper_51.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_52",
+      "thumb": "zipper_52_thumb.png",
+      "preview_url": "zipper_52.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_53",
+      "thumb": "zipper_53_thumb.png",
+      "preview_url": "zipper_53.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_54",
+      "thumb": "zipper_54_thumb.png",
+      "preview_url": "zipper_54.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_55",
+      "thumb": "zipper_55_thumb.png",
+      "preview_url": "zipper_55.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_56",
+      "thumb": "zipper_56_thumb.png",
+      "preview_url": "zipper_56.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_57",
+      "thumb": "zipper_57_thumb.png",
+      "preview_url": "zipper_57.png",
+      "is_lock": false
+    },
+    {
+      "id": "zipper_58",
+      "thumb": "zipper_58_thumb.png",
+      "preview_url": "zipper_58.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_01",
+      "thumb": "animal_zipper_01_thumb.png",
+      "preview_url": "animal_zipper_01.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_02",
+      "thumb": "animal_zipper_02_thumb.png",
+      "preview_url": "animal_zipper_02.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_03",
+      "thumb": "animal_zipper_03_thumb.png",
+      "preview_url": "animal_zipper_03.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_04",
+      "thumb": "animal_zipper_04_thumb.png",
+      "preview_url": "animal_zipper_04.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_05",
+      "thumb": "animal_zipper_05_thumb.png",
+      "preview_url": "animal_zipper_05.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_06",
+      "thumb": "animal_zipper_06_thumb.png",
+      "preview_url": "animal_zipper_06.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_07",
+      "thumb": "animal_zipper_07_thumb.png",
+      "preview_url": "animal_zipper_07.png",
+      "is_lock": false
+    },
+    {
+      "id": "animal_zipper_08",
+      "thumb": "animal_zipper_08_thumb.png",
+      "preview_url": "animal_zipper_08.png",
+      "is_lock": false
+    }
+  ]
+}

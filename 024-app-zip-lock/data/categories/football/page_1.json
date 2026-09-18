@@ -1,0 +1,211 @@
+{
+  "pagination": {
+    "page": 1,
+    "page_size": 20,
+    "total_items": 24,
+    "total_pages": 2,
+    "has_next": true
+  },
+  "items": [
+    {
+      "id": "football_01",
+      "category_id": "football",
+      "preview": "football_01_preview.jpg",
+      "background": "football_22_bg_football_16.png",
+      "foreground": "football_01_bg_football_04.png",
+      "row_id": "golden_09",
+      "zip_id": "zipper_11",
+      "is_lock": false
+    },
+    {
+      "id": "football_02",
+      "category_id": "football",
+      "preview": "football_02_preview.jpg",
+      "background": "football_24_bg_football_07.png",
+      "foreground": "football_02_bg_football_01.png",
+      "row_id": "gemstone_08",
+      "zip_id": "zipper_10",
+      "is_lock": false
+    },
+    {
+      "id": "football_03",
+      "category_id": "football",
+      "preview": "football_03_preview.jpg",
+      "background": "football_23_bg_football_13.png",
+      "foreground": "football_03_bg_football_03.png",
+      "row_id": "weapons_03",
+      "zip_id": "zipper_14",
+      "is_lock": false
+    },
+    {
+      "id": "football_04",
+      "category_id": "football",
+      "preview": "football_04_preview.jpg",
+      "background": "football_19_bg_football_08.png",
+      "foreground": "football_04_bg_football_02.png",
+      "row_id": "gemstone_07",
+      "zip_id": "zipper_44",
+      "is_lock": false
+    },
+    {
+      "id": "football_05",
+      "category_id": "football",
+      "preview": "football_05_preview.jpg",
+      "background": "football_18_bg_football_20.png",
+      "foreground": "football_05_bg_football_16.png",
+      "row_id": "color_25",
+      "zip_id": "zipper_21",
+      "is_lock": false
+    },
+    {
+      "id": "football_06",
+      "category_id": "football",
+      "preview": "football_06_preview.jpg",
+      "background": "football_17_bg_football_14.png",
+      "foreground": "football_06_bg_football_07.png",
+      "row_id": "collection_10",
+      "zip_id": "zipper_16",
+      "is_lock": false
+    },
+    {
+      "id": "football_07",
+      "category_id": "football",
+      "preview": "football_07_preview.jpg",
+      "background": "football_21_bg_football_03.png",
+      "foreground": "football_07_bg_football_06.png",
+      "row_id": "color_02",
+      "zip_id": "aesthetic_zipper_07",
+      "is_lock": false
+    },
+    {
+      "id": "football_08",
+      "category_id": "football",
+      "preview": "football_08_preview.jpg",
+      "background": "football_20_bg_football_17.png",
+      "foreground": "football_08_bg_football_04.png",
+      "row_id": "gemstone_09",
+      "zip_id": "zipper_23",
+      "is_lock": false
+    },
+    {
+      "id": "football_09",
+      "category_id": "football",
+      "preview": "football_09_preview.jpg",
+      "background": "football_16_bg_football_12.png",
+      "foreground": "football_09_bg_football_09.png",
+      "row_id": "color_10",
+      "zip_id": "zipper_14",
+      "is_lock": false
+    },
+    {
+      "id": "football_10",
+      "category_id": "football",
+      "preview": "football_10_preview.jpg",
+      "background": "football_15_bg_football_19.png",
+      "foreground": "football_10_bg_football_08.png",
+      "row_id": "color_06",
+      "zip_id": "zipper_22",
+      "is_lock": false
+    },
+    {
+      "id": "football_11",
+      "category_id": "football",
+      "preview": "football_11_preview.jpg",
+      "background": "football_13_bg_football_15.png",
+      "foreground": "football_11_bg_football_20.png",
+      "row_id": "collection_10",
+      "zip_id": "zipper_08",
+      "is_lock": false
+    },
+    {
+      "id": "football_12",
+      "category_id": "football",
+      "preview": "football_12_preview.jpg",
+      "background": "football_14_bg_football_17.png",
+      "foreground": "football_12_bg_football_13.png",
+      "row_id": "golden_14",
+      "zip_id": "zipper_01",
+      "is_lock": false
+    },
+    {
+      "id": "football_13",
+      "category_id": "football",
+      "preview": "football_13_preview.jpg",
+      "background": "football_12_bg_football_13.png",
+      "foreground": "football_13_bg_football_15.png",
+      "row_id": "color_18",
+      "zip_id": "zipper_48",
+      "is_lock": false
+    },
+    {
+      "id": "football_14",
+      "category_id": "football",
+      "preview": "football_14_preview.jpg",
+      "background": "football_11_bg_football_20.png",
+      "foreground": "football_14_bg_football_17.png",
+      "row_id": "golden_07",
+      "zip_id": "zipper_09",
+      "is_lock": false
+    },
+    {
+      "id": "football_15",
+      "category_id": "football",
+      "preview": "football_15_preview.jpg",
+      "background": "football_10_bg_football_08.png",
+      "foreground": "football_15_bg_football_19.png",
+      "row_id": "golden_08",
+      "zip_id": "zipper_49",
+      "is_lock": false
+    },
+    {
+      "id": "football_16",
+      "category_id": "football",
+      "preview": "football_16_preview.jpg",
+      "background": "football_09_bg_football_09.png",
+      "foreground": "football_16_bg_football_12.png",
+      "row_id": "color_11",
+      "zip_id": "zipper_06",
+      "is_lock": false
+    },
+    {
+      "id": "football_17",
+      "category_id": "football",
+      "preview": "football_17_preview.jpg",
+      "background": "football_08_bg_football_04.png",
+      "foreground": "football_17_bg_football_14.png",
+      "row_id": "gemstone_02",
+      "zip_id": "aesthetic_zipper_11",
+      "is_lock": false
+    },
+    {
+      "id": "football_18",
+      "category_id": "football",
+      "preview": "football_18_preview.jpg",
+      "background": "football_07_bg_football_06.png",
+      "foreground": "football_18_bg_football_20.png",
+      "row_id": "gemstone_08",
+      "zip_id": "aesthetic_zipper_14",
+      "is_lock": false
+    },
+    {
+      "id": "football_19",
+      "category_id": "football",
+      "preview": "football_19_preview.jpg",
+      "background": "football_04_bg_football_02.png",
+      "foreground": "football_19_bg_football_08.png",
+      "row_id": "golden_13",
+      "zip_id": "zipper_54",
+      "is_lock": false
+    },
+    {
+      "id": "football_20",
+      "category_id": "football",
+      "preview": "football_20_preview.jpg",
+      "background": "football_06_bg_football_07.png",
+      "foreground": "football_20_bg_football_17.png",
+      "row_id": "color_14",
+      "zip_id": "zipper_48",
+      "is_lock": false
+    }
+  ]
+}

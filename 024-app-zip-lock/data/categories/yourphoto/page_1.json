@@ -1,0 +1,21 @@
+{
+  "pagination": {
+    "page": 1,
+    "page_size": 20,
+    "total_items": 1,
+    "total_pages": 1,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "theme_yourphoto_1789529756728",
+      "category_id": "yourphoto",
+      "preview": "theme_yourphoto_1789529756728_preview.jpg",
+      "background": "theme_yourphoto_blurred_background.jpg",
+      "foreground": "theme_yourphoto_1789529756728_bg_digital_art_01.jpg",
+      "row_id": "gemstone_01",
+      "zip_id": "zipper_01",
+      "is_lock": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pagination": {
+    "page": 5,
+    "page_size": 20,
+    "total_items": 82,
+    "total_pages": 5,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "dl_sport_081",
+      "category_id": "sport",
+      "preview": "dl_sport_081_preview.webp",
+      "background": "dl_sport_081_background.webp",
+      "foreground": "dl_sport_081_foreground.webp",
+      "row_id": "dl_row_003",
+      "zip_id": "dl_zip_089",
+      "is_lock": false
+    },
+    {
+      "id": "dl_sport_082",
+      "category_id": "sport",
+      "preview": "dl_sport_082_preview.webp",
+      "background": "dl_sport_082_background.webp",
+      "foreground": "dl_sport_082_foreground.webp",
+      "row_id": "dl_row_002",
+      "zip_id": "dl_zip_090",
+      "is_lock": false
+    }
+  ]
+}

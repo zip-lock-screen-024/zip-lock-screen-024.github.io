@@ -1,0 +1,21 @@
+{
+  "pagination": {
+    "page": 6,
+    "page_size": 20,
+    "total_items": 101,
+    "total_pages": 6,
+    "has_next": false
+  },
+  "items": [
+    {
+      "id": "dl_idol_101",
+      "category_id": "idol",
+      "preview": "dl_idol_101_preview.webp",
+      "background": "dl_idol_101_background.webp",
+      "foreground": "dl_idol_101_foreground.webp",
+      "row_id": "dl_row_004",
+      "zip_id": "dl_zip_032",
+      "is_lock": false
+    }
+  ]
+}
