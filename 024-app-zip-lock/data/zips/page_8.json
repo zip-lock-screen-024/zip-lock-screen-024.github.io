@@ -17,7 +17,7 @@
       "id": "car_zipper_14",
       "thumb": "car_zipper_14_thumb.png",
       "preview_url": "car_zipper_14.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "car_zipper_15",
@@ -41,7 +41,7 @@
       "id": "cartoon_zipper_02",
       "thumb": "cartoon_zipper_02_thumb.png",
       "preview_url": "cartoon_zipper_02.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "cartoon_zipper_03",
@@ -65,7 +65,7 @@
       "id": "cartoon_zipper_06",
       "thumb": "cartoon_zipper_06_thumb.png",
       "preview_url": "cartoon_zipper_06.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "cartoon_zipper_07",
@@ -89,7 +89,7 @@
       "id": "cartoon_zipper_10",
       "thumb": "cartoon_zipper_10_thumb.png",
       "preview_url": "cartoon_zipper_10.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "cartoon_zipper_11",
@@ -113,7 +113,7 @@
       "id": "christmas_zipper_02",
       "thumb": "christmas_zipper_02_thumb.png",
       "preview_url": "christmas_zipper_02.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "christmas_zipper_03",

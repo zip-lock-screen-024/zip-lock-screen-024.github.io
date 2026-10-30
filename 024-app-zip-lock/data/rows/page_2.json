@@ -19,7 +19,7 @@
       "thumb": "collection_22.png",
       "preview_url": "collection_22.png",
       "item_row": "collection_22.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_01",
@@ -47,7 +47,7 @@
       "thumb": "color_04.png",
       "preview_url": "color_04.png",
       "item_row": "color_04.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_05",
@@ -75,7 +75,7 @@
       "thumb": "color_08.png",
       "preview_url": "color_08.png",
       "item_row": "color_08.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_09",
@@ -103,7 +103,7 @@
       "thumb": "color_12.png",
       "preview_url": "color_12.png",
       "item_row": "color_12.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_13",
@@ -131,7 +131,7 @@
       "thumb": "color_16.png",
       "preview_url": "color_16.png",
       "item_row": "color_16.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_17",

@@ -11,7 +11,7 @@
       "id": "zipper_47",
       "thumb": "zipper_47_thumb.png",
       "preview_url": "zipper_47.png",
-      "is_lock": true
+      "is_lock": false
     },
     {
       "id": "zipper_48",
@@ -29,7 +29,7 @@
       "id": "zipper_50",
       "thumb": "zipper_50_thumb.png",
       "preview_url": "zipper_50.png",
-      "is_lock": true
+      "is_lock": false
     },
     {
       "id": "zipper_51",
@@ -41,7 +41,7 @@
       "id": "zipper_52",
       "thumb": "zipper_52_thumb.png",
       "preview_url": "zipper_52.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "zipper_53",
@@ -65,7 +65,7 @@
       "id": "zipper_56",
       "thumb": "zipper_56_thumb.png",
       "preview_url": "zipper_56.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "zipper_57",
@@ -89,7 +89,7 @@
       "id": "animal_zipper_02",
       "thumb": "animal_zipper_02_thumb.png",
       "preview_url": "animal_zipper_02.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "animal_zipper_03",
@@ -113,7 +113,7 @@
       "id": "animal_zipper_06",
       "thumb": "animal_zipper_06_thumb.png",
       "preview_url": "animal_zipper_06.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "animal_zipper_07",

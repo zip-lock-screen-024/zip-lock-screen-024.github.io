@@ -19,7 +19,7 @@
       "thumb": "golden_15.png",
       "preview_url": "golden_15.png",
       "item_row": "golden_15.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_16",
@@ -47,7 +47,7 @@
       "thumb": "golden_19.png",
       "preview_url": "golden_19.png",
       "item_row": "golden_19.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_20",
@@ -75,7 +75,7 @@
       "thumb": "weapons_03.png",
       "preview_url": "weapons_03.png",
       "item_row": "weapons_03.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "weapons_04",
@@ -103,7 +103,7 @@
       "thumb": "weapons_07.png",
       "preview_url": "weapons_07.png",
       "item_row": "weapons_07.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "weapons_08",
@@ -131,7 +131,7 @@
       "thumb": "dl_row_001_thumb.webp",
       "preview_url": "dl_row_001_item.webp",
       "item_row": "dl_row_001_item.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_row_002",

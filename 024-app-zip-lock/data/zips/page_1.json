@@ -29,7 +29,7 @@
       "id": "aesthetic_zipper_04",
       "thumb": "aesthetic_zipper_04_thumb.png",
       "preview_url": "aesthetic_zipper_04.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_zipper_05",
@@ -41,7 +41,7 @@
       "id": "aesthetic_zipper_06",
       "thumb": "aesthetic_zipper_06_thumb.png",
       "preview_url": "aesthetic_zipper_06.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_zipper_07",
@@ -65,7 +65,7 @@
       "id": "aesthetic_zipper_10",
       "thumb": "aesthetic_zipper_10_thumb.png",
       "preview_url": "aesthetic_zipper_10.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_zipper_11",
@@ -89,7 +89,7 @@
       "id": "aesthetic_zipper_14",
       "thumb": "aesthetic_zipper_14_thumb.png",
       "preview_url": "aesthetic_zipper_14.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_zipper_15",
@@ -113,7 +113,7 @@
       "id": "aesthetic_zipper_18",
       "thumb": "aesthetic_zipper_18_thumb.png",
       "preview_url": "aesthetic_zipper_18.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_zipper_19",

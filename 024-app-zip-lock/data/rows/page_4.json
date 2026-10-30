@@ -19,7 +19,7 @@
       "thumb": "gemstone_04.png",
       "preview_url": "gemstone_04.png",
       "item_row": "gemstone_04.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "gemstone_05",
@@ -47,7 +47,7 @@
       "thumb": "gemstone_08.png",
       "preview_url": "gemstone_08.png",
       "item_row": "gemstone_08.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "gemstone_09",
@@ -75,7 +75,7 @@
       "thumb": "golden_03.png",
       "preview_url": "golden_03.png",
       "item_row": "golden_03.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_04",
@@ -103,7 +103,7 @@
       "thumb": "golden_07.png",
       "preview_url": "golden_07.png",
       "item_row": "golden_07.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_08",
@@ -131,7 +131,7 @@
       "thumb": "golden_11.png",
       "preview_url": "golden_11.png",
       "item_row": "golden_11.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_12",

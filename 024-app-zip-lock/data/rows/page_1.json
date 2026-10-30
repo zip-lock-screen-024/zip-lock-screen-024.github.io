@@ -12,7 +12,7 @@
       "thumb": "collection_01.png",
       "preview_url": "collection_01.png",
       "item_row": "collection_01.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_02",
@@ -33,7 +33,7 @@
       "thumb": "collection_04.png",
       "preview_url": "collection_04.png",
       "item_row": "collection_04.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_05",
@@ -47,7 +47,7 @@
       "thumb": "collection_06.png",
       "preview_url": "collection_06.png",
       "item_row": "collection_06.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_07",
@@ -75,7 +75,7 @@
       "thumb": "collection_10.png",
       "preview_url": "collection_10.png",
       "item_row": "collection_10.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_11",
@@ -103,7 +103,7 @@
       "thumb": "collection_14.png",
       "preview_url": "collection_14.png",
       "item_row": "collection_14.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_15",
@@ -131,7 +131,7 @@
       "thumb": "collection_18.png",
       "preview_url": "collection_18.png",
       "item_row": "collection_18.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "collection_19",

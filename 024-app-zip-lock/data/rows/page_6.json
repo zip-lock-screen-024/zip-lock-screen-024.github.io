@@ -19,7 +19,7 @@
       "thumb": "dl_row_005_thumb.webp",
       "preview_url": "dl_row_005_item.webp",
       "item_row": "dl_row_005_item.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_row_006",
@@ -47,7 +47,7 @@
       "thumb": "dl_row_009_thumb.webp",
       "preview_url": "dl_row_009_item.webp",
       "item_row": "dl_row_009_item.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_row_010",
@@ -75,7 +75,7 @@
       "thumb": "dl_row_013_thumb.webp",
       "preview_url": "dl_row_013_item.webp",
       "item_row": "dl_row_013_item.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_row_014",

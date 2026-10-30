@@ -19,7 +19,7 @@
       "thumb": "color_20.png",
       "preview_url": "color_20.png",
       "item_row": "color_20.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_21",
@@ -47,7 +47,7 @@
       "thumb": "color_24.png",
       "preview_url": "color_24.png",
       "item_row": "color_24.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_25",
@@ -75,7 +75,7 @@
       "thumb": "color_28.png",
       "preview_url": "color_28.png",
       "item_row": "color_28.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_29",
@@ -103,7 +103,7 @@
       "thumb": "color_32.png",
       "preview_url": "color_32.png",
       "item_row": "color_32.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "color_33",
@@ -131,7 +131,7 @@
       "thumb": "color_36.png",
       "preview_url": "color_36.png",
       "item_row": "color_36.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "gemstone_01",

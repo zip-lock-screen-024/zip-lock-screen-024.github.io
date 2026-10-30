@@ -17,7 +17,7 @@
       "id": "dl_zip_096",
       "thumb": "dl_zip_096_thumb.webp",
       "preview_url": "dl_zip_096_preview.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_zip_097",
@@ -41,7 +41,7 @@
       "id": "dl_zip_100",
       "thumb": "dl_zip_100_thumb.webp",
       "preview_url": "dl_zip_100_preview.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_zip_101",
@@ -65,7 +65,7 @@
       "id": "dl_zip_104",
       "thumb": "dl_zip_104_thumb.webp",
       "preview_url": "dl_zip_104_preview.webp",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_zip_105",
@@ -89,7 +89,7 @@
       "id": "dl_zip_108",
       "thumb": "dl_zip_108_thumb.webp",
       "preview_url": "dl_zip_108_preview.webp",
-      "is_lock": false
+      "is_lock": true
     }
   ]
 }

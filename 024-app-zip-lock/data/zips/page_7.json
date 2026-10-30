@@ -17,7 +17,7 @@
       "id": "anime_zipper_30",
       "thumb": "anime_zipper_30_thumb.png",
       "preview_url": "anime_zipper_30.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_zipper_31",
@@ -41,7 +41,7 @@
       "id": "anime_zipper_34",
       "thumb": "anime_zipper_34_thumb.png",
       "preview_url": "anime_zipper_34.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_zipper_35",
@@ -65,7 +65,7 @@
       "id": "car_zipper_02",
       "thumb": "car_zipper_02_thumb.png",
       "preview_url": "car_zipper_02.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "car_zipper_03",
@@ -89,7 +89,7 @@
       "id": "car_zipper_06",
       "thumb": "car_zipper_06_thumb.png",
       "preview_url": "car_zipper_06.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "car_zipper_07",
@@ -113,7 +113,7 @@
       "id": "car_zipper_10",
       "thumb": "car_zipper_10_thumb.png",
       "preview_url": "car_zipper_10.png",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "car_zipper_11",
