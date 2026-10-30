@@ -15,7 +15,7 @@
       "foreground": "mostused_01_bg_anime_29.png",
       "row_id": "gemstone_08",
       "zip_id": "zipper_10",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_02",
@@ -45,7 +45,7 @@
       "foreground": "mostused_04_bg_football_04.png",
       "row_id": "gemstone_09",
       "zip_id": "zipper_11",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_05",
@@ -65,7 +65,7 @@
       "foreground": "mostused_06_bg_anime_02.png",
       "row_id": "collection_07",
       "zip_id": "zipper_08",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_07",
@@ -105,7 +105,7 @@
       "foreground": "mostused_10_bg_devil_03.jpg",
       "row_id": "weapons_05",
       "zip_id": "zipper_03",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_11",
@@ -145,7 +145,7 @@
       "foreground": "mostused_14_bg_car_11.png",
       "row_id": "collection_10",
       "zip_id": "zipper_30",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_15",
@@ -185,7 +185,7 @@
       "foreground": "mostused_18_bg_animail_06.jpg",
       "row_id": "gemstone_08",
       "zip_id": "animal_zipper_04",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "mostused_19",

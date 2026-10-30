@@ -15,7 +15,7 @@
       "foreground": "digital_art_01_bg_digital_art_02.jpg",
       "row_id": "color_13",
       "zip_id": "zipper_19",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_02",
@@ -45,7 +45,7 @@
       "foreground": "digital_art_04_bg_digital_art_23.jpg",
       "row_id": "collection_10",
       "zip_id": "zipper_16",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_05",
@@ -65,7 +65,7 @@
       "foreground": "digital_art_06_bg_digital_art_36.png",
       "row_id": "gemstone_05",
       "zip_id": "zipper_49",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_07",
@@ -105,7 +105,7 @@
       "foreground": "digital_art_10_bg_digital_art_41.png",
       "row_id": "gemstone_09",
       "zip_id": "zipper_23",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_11",
@@ -145,7 +145,7 @@
       "foreground": "digital_art_14_bg_flower_09.jpg",
       "row_id": "color_14",
       "zip_id": "aesthetic_zipper_19",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_15",
@@ -185,7 +185,7 @@
       "foreground": "digital_art_18_bg_digital_art_42.png",
       "row_id": "gemstone_07",
       "zip_id": "animal_zipper_01",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "digital_art_19",

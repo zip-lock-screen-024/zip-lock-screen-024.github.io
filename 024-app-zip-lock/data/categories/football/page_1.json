@@ -15,7 +15,7 @@
       "foreground": "football_01_bg_football_04.png",
       "row_id": "golden_09",
       "zip_id": "zipper_11",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_02",
@@ -45,7 +45,7 @@
       "foreground": "football_04_bg_football_02.png",
       "row_id": "gemstone_07",
       "zip_id": "zipper_44",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_05",
@@ -65,7 +65,7 @@
       "foreground": "football_06_bg_football_07.png",
       "row_id": "collection_10",
       "zip_id": "zipper_16",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_07",
@@ -105,7 +105,7 @@
       "foreground": "football_10_bg_football_08.png",
       "row_id": "color_06",
       "zip_id": "zipper_22",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_11",
@@ -145,7 +145,7 @@
       "foreground": "football_14_bg_football_17.png",
       "row_id": "golden_07",
       "zip_id": "zipper_09",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_15",
@@ -185,7 +185,7 @@
       "foreground": "football_18_bg_football_20.png",
       "row_id": "gemstone_08",
       "zip_id": "aesthetic_zipper_14",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_19",

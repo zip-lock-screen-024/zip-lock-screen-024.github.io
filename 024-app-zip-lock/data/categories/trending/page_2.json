@@ -25,7 +25,7 @@
       "foreground": "trending_22_bg_cyberpunk_02.png",
       "row_id": "gemstone_08",
       "zip_id": "zipper_43",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_23",
@@ -65,7 +65,7 @@
       "foreground": "trending_26_bg_car_03.png",
       "row_id": "collection_08",
       "zip_id": "car_zipper_01",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_27",
@@ -105,7 +105,7 @@
       "foreground": "trending_30_bg_flower_14.jpg",
       "row_id": "color_16",
       "zip_id": "aesthetic_zipper_16",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_31",
@@ -145,7 +145,7 @@
       "foreground": "trending_34_bg_super_hero_41.png",
       "row_id": "weapons_07",
       "zip_id": "zipper_05",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_35",
@@ -185,7 +185,7 @@
       "foreground": "trending_38_bg_golden_07.png",
       "row_id": "golden_07",
       "zip_id": "aesthetic_zipper_15",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_39",

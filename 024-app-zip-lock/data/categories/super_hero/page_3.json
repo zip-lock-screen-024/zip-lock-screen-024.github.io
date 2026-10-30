@@ -25,7 +25,7 @@
       "foreground": "dl_super_hero_042_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_045",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_super_hero_043",
@@ -65,7 +65,7 @@
       "foreground": "dl_super_hero_046_foreground.webp",
       "row_id": "dl_row_013",
       "zip_id": "dl_zip_007",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_super_hero_047",

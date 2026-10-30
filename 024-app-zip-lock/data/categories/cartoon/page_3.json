@@ -25,7 +25,7 @@
       "foreground": "dl_cartoon_042_foreground.webp",
       "row_id": "dl_row_001",
       "zip_id": "dl_zip_108",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_cartoon_043",
@@ -65,7 +65,7 @@
       "foreground": "dl_cartoon_046_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_104",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_cartoon_047",
@@ -105,7 +105,7 @@
       "foreground": "dl_cartoon_050_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_100",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_cartoon_051",
@@ -145,7 +145,7 @@
       "foreground": "dl_cartoon_054_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_096",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_cartoon_055",
@@ -185,7 +185,7 @@
       "foreground": "dl_cartoon_058_foreground.webp",
       "row_id": "dl_row_001",
       "zip_id": "dl_zip_004",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_cartoon_059",

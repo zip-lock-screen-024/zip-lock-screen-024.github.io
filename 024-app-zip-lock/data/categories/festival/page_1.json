@@ -15,7 +15,7 @@
       "foreground": "dl_festival_012_foreground.webp",
       "row_id": "dl_row_011",
       "zip_id": "dl_zip_068",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_festival_013",
@@ -45,7 +45,7 @@
       "foreground": "dl_festival_015_foreground.webp",
       "row_id": "dl_row_014",
       "zip_id": "dl_zip_071",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_festival_016",
@@ -65,7 +65,7 @@
       "foreground": "dl_festival_017_foreground.webp",
       "row_id": "dl_row_016",
       "zip_id": "dl_zip_073",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_festival_018",
@@ -105,7 +105,7 @@
       "foreground": "dl_festival_hal_003_foreground.webp",
       "row_id": "dl_row_009",
       "zip_id": "dl_zip_047",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_festival_hal_004",
@@ -145,7 +145,7 @@
       "foreground": "dl_festival_hal_007_foreground.webp",
       "row_id": "dl_row_007",
       "zip_id": "dl_zip_051",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_festival_hal_008",
@@ -185,7 +185,7 @@
       "foreground": "dl_festival_hal_011_foreground.webp",
       "row_id": "dl_row_011",
       "zip_id": "dl_zip_055",
-      "is_lock": false
+      "is_lock": true
     }
   ]
 }

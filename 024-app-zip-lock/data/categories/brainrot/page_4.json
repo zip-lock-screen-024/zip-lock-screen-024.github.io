@@ -25,7 +25,7 @@
       "foreground": "dl_brainrot_062_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_015",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_brainrot_063",
@@ -65,7 +65,7 @@
       "foreground": "dl_brainrot_066_foreground.webp",
       "row_id": "dl_row_001",
       "zip_id": "dl_zip_083",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_brainrot_067",

@@ -15,7 +15,7 @@
       "foreground": "trending_01_bg_digital_art_02.jpg",
       "row_id": "color_13",
       "zip_id": "zipper_19",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_02",
@@ -45,7 +45,7 @@
       "foreground": "trending_05_bg_anime_03.png",
       "row_id": "golden_09",
       "zip_id": "zipper_08",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_04",
@@ -65,7 +65,7 @@
       "foreground": "trending_06_bg_anime_12.png",
       "row_id": "weapons_06",
       "zip_id": "anime_zipper_06",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_07",
@@ -105,7 +105,7 @@
       "foreground": "trending_10_bg_digital_art_07.jpg",
       "row_id": "gemstone_09",
       "zip_id": "zipper_23",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_11",
@@ -145,7 +145,7 @@
       "foreground": "trending_14_bg_cyberpunk_12.png",
       "row_id": "color_24",
       "zip_id": "zipper_40",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_15",
@@ -185,7 +185,7 @@
       "foreground": "trending_18_bg_super_hero_05.png",
       "row_id": "color_07",
       "zip_id": "zipper_35",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "trending_19",

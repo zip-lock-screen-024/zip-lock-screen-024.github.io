@@ -25,7 +25,7 @@
       "foreground": "dl_sport_082_foreground.webp",
       "row_id": "dl_row_002",
       "zip_id": "dl_zip_090",
-      "is_lock": false
+      "is_lock": true
     }
   ]
 }

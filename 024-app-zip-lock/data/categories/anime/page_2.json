@@ -25,7 +25,7 @@
       "foreground": "dl_anime_002_foreground.webp",
       "row_id": "dl_row_001",
       "zip_id": "dl_zip_008",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_anime_003",
@@ -65,7 +65,7 @@
       "foreground": "dl_anime_006_foreground.webp",
       "row_id": "dl_row_004",
       "zip_id": "dl_zip_004",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_anime_007",
@@ -105,7 +105,7 @@
       "foreground": "dl_anime_010_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_007",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_anime_011",
@@ -145,7 +145,7 @@
       "foreground": "dl_anime_014_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_008",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_anime_015",
@@ -185,7 +185,7 @@
       "foreground": "dl_anime_018_foreground.webp",
       "row_id": "dl_row_005",
       "zip_id": "dl_zip_011",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_anime_019",

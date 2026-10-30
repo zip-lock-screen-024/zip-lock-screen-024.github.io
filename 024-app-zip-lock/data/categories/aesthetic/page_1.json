@@ -35,7 +35,7 @@
       "foreground": "aesthetic_03_bg_digital_art_14.jpg",
       "row_id": "color_02",
       "zip_id": "aesthetic_zipper_02",
-      "is_lock": true
+      "is_lock": false
     },
     {
       "id": "aesthetic_04",
@@ -45,7 +45,7 @@
       "foreground": "aesthetic_04_bg_cute_15.jpg",
       "row_id": "collection_14",
       "zip_id": "animal_zipper_11",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_05",
@@ -65,7 +65,7 @@
       "foreground": "aesthetic_06_bg_cute_02.jpg",
       "row_id": "golden_20",
       "zip_id": "zipper_48",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_07",
@@ -105,7 +105,7 @@
       "foreground": "aesthetic_10_bg_love_14.jpg",
       "row_id": "collection_11",
       "zip_id": "aesthetic_zipper_12",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_11",
@@ -145,7 +145,7 @@
       "foreground": "aesthetic_14_bg_golden_23.png",
       "row_id": "golden_12",
       "zip_id": "aesthetic_zipper_18",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_15",
@@ -185,7 +185,7 @@
       "foreground": "aesthetic_18_bg_love_06.jpg",
       "row_id": "color_02",
       "zip_id": "aesthetic_zipper_12",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_19",

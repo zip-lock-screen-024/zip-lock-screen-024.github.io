@@ -25,7 +25,7 @@
       "foreground": "aesthetic_22_bg_flower_14.jpg",
       "row_id": "golden_18",
       "zip_id": "aesthetic_zipper_18",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "aesthetic_23",

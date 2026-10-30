@@ -25,7 +25,7 @@
       "foreground": "golden_22_bg_golden_22.png",
       "row_id": "golden_02",
       "zip_id": "aesthetic_zipper_10",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_23",
@@ -65,7 +65,7 @@
       "foreground": "golden_26_bg_golden_26.png",
       "row_id": "golden_08",
       "zip_id": "aesthetic_zipper_17",
-      "is_lock": false
+      "is_lock": true
     }
   ]
 }

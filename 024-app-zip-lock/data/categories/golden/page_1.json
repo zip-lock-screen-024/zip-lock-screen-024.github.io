@@ -15,7 +15,7 @@
       "foreground": "golden_01_bg_golden_01.png",
       "row_id": "golden_03",
       "zip_id": "zipper_19",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_02",
@@ -45,7 +45,7 @@
       "foreground": "golden_04_bg_golden_04.png",
       "row_id": "golden_17",
       "zip_id": "aesthetic_zipper_17",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_05",
@@ -65,7 +65,7 @@
       "foreground": "golden_06_bg_golden_06.png",
       "row_id": "golden_20",
       "zip_id": "zipper_50",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_07",
@@ -105,7 +105,7 @@
       "foreground": "golden_10_bg_golden_10.png",
       "row_id": "golden_12",
       "zip_id": "aesthetic_zipper_09",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_11",
@@ -145,7 +145,7 @@
       "foreground": "golden_14_bg_golden_14.png",
       "row_id": "golden_08",
       "zip_id": "zipper_48",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_15",
@@ -185,7 +185,7 @@
       "foreground": "golden_18_bg_golden_18.png",
       "row_id": "golden_03",
       "zip_id": "aesthetic_zipper_10",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "golden_19",

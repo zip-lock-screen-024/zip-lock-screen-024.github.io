@@ -25,7 +25,7 @@
       "foreground": "dl_idol_042_foreground.webp",
       "row_id": "dl_row_003",
       "zip_id": "dl_zip_077",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_idol_043",
@@ -65,7 +65,7 @@
       "foreground": "dl_idol_046_foreground.webp",
       "row_id": "dl_row_007",
       "zip_id": "dl_zip_081",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_idol_047",
@@ -105,7 +105,7 @@
       "foreground": "dl_idol_050_foreground.webp",
       "row_id": "dl_row_011",
       "zip_id": "dl_zip_085",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_idol_051",
@@ -145,7 +145,7 @@
       "foreground": "dl_idol_054_foreground.webp",
       "row_id": "dl_row_015",
       "zip_id": "dl_zip_091",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_idol_055",
@@ -185,7 +185,7 @@
       "foreground": "dl_idol_058_foreground.webp",
       "row_id": "dl_row_003",
       "zip_id": "dl_zip_095",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "dl_idol_059",

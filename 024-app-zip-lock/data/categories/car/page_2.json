@@ -25,7 +25,7 @@
       "foreground": "car_22_bg_car_07.png",
       "row_id": "weapons_07",
       "zip_id": "car_zipper_10",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "car_23",

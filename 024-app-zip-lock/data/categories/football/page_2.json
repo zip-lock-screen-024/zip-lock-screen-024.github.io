@@ -25,7 +25,7 @@
       "foreground": "football_22_bg_football_16.png",
       "row_id": "gemstone_06",
       "zip_id": "zipper_26",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "football_23",

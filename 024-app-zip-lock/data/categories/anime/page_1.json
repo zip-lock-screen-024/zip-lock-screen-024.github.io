@@ -45,7 +45,7 @@
       "foreground": "anime_04_bg_anime_08.png",
       "row_id": "gemstone_08",
       "zip_id": "anime_zipper_06",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_05",
@@ -65,7 +65,7 @@
       "foreground": "anime_06_bg_anime_12.png",
       "row_id": "gemstone_02",
       "zip_id": "zipper_10",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_07",
@@ -105,7 +105,7 @@
       "foreground": "anime_10_bg_anime_31.png",
       "row_id": "collection_09",
       "zip_id": "zipper_24",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_11",
@@ -145,7 +145,7 @@
       "foreground": "anime_14_bg_anime_33.png",
       "row_id": "gemstone_07",
       "zip_id": "aesthetic_zipper_04",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_15",
@@ -185,7 +185,7 @@
       "foreground": "anime_18_bg_anime_50.png",
       "row_id": "collection_05",
       "zip_id": "zipper_22",
-      "is_lock": false
+      "is_lock": true
     },
     {
       "id": "anime_19",
